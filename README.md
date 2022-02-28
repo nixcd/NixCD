@@ -1,7 +1,7 @@
 ### Hi! I'm Nix 👋
 
 - 🔭 I’m currently working on MyLifeRP
-- 💻 I’m currently learning Bash, js, lua
+- 💻 I’m currently learning Bash, JavaScript, .Lua
 ```
 - 📫 How to reach me: nixito337@gmail.com or Nix#7410
 - 🔰  https://discord.gg/PZPcTVfP8e 🔰
