@@ -1,10 +1,10 @@
 ### Hi! i'm Nix 👋
 
 - 🔭 I’m currently working on MyLifeRP
-- 🌱 I’m currently learning Bash, js, lua
+- 💻 I’m currently learning Bash, js, lua
 ```
 - 📫 How to reach me: nixito337@gmail.com or Nix#7410
-- 🔰  https://discord.gg/e7r9ZtbxD9 🔰
+- 🔰  https://discord.gg/PZPcTVfP8e 🔰
 
 ```
 - 😄 Worked on: 
