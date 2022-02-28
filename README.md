@@ -1,4 +1,4 @@
-### Hi! i'm Nix 👋
+### Hi! I'm Nix 👋
 
 - 🔭 I’m currently working on MyLifeRP
 - 💻 I’m currently learning Bash, js, lua
