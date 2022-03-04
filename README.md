@@ -5,11 +5,12 @@
 
 ## How to reach me
 <p align='center'>
+<a href="mailto:nix.cont@outlook.es"><img height="48" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/nixitoficial"><img height="48" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg"></a>&nbsp;&nbsp;   
 <a href="https://twitch.tv/nixitoficial"><img height="48" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/twitch.svg"></a>&nbsp;&nbsp;
 </p>
 
-## 📑 Worked on:
+## Worked on:
 - HispanLifeRP - June 2019 - 2021
 - MisticRP - March 2021 - July 2021
 - EvolutionRP - January 2021
