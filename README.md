@@ -2,11 +2,14 @@
 
 - 🔭 I’m currently working on MyLifeRP
 - 💻 I’m currently learning Bash, JavaScript, .Lua
-```
-- 📫 How to reach me: or Nix#7410
-- 🔰  https://discord.gg/PZPcTVfP8e 🔰
 
-```
+## How to reach me
+<p align='center'>
+<a href="https://twitter.com/nixitoficial"><img height="64" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg"></a>&nbsp;&nbsp;   
+<a href="https://discord.gg/PZPcTVfP8e"><img height="48" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"></a>&nbsp;&nbsp;
+</p>
+
+
 - 📑 Worked on: 
 - HispanLifeRP - June 2019 - 2021
 - MisticRP - March 2021 - July 2021
@@ -15,11 +18,13 @@
 
 ## Used
 
+
    <p align="center">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />
    </p>  
+
 
 ## Tools
 
