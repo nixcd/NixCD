@@ -10,7 +10,7 @@
 <a href="https://twitch.tv/nixitoficial"><img height="48" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/twitch.svg"></a>&nbsp;&nbsp;
 </p>
 
-## @citizenfx Works:
+## @citizenfx Worked:
 - HispanLifeRP - June 2019 - 2021
 - MisticRP - March 2021 - July 2021
 - EvolutionRP - January 2021
