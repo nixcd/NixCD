@@ -5,19 +5,17 @@
 
 ## How to reach me
 <p align='center'>
-<a href="https://twitter.com/nixitoficial"><img height="64" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg"></a>&nbsp;&nbsp;   
-<a href="https://discord.gg/PZPcTVfP8e"><img height="48" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/nixitoficial"><img height="48" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg"></a>&nbsp;&nbsp;   
+<a href="https://discord.gg/PZPcTVfP8e"><img height="48" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg"></a>&nbsp;&nbsp;
 </p>
 
-
-- 📑 Worked on: 
+## 📑 Worked on:
 - HispanLifeRP - June 2019 - 2021
 - MisticRP - March 2021 - July 2021
 - EvolutionRP - January 2021
 - MyLifeRP -  27/01/2022 - ...
 
 ## Used
-
 
    <p align="center">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
