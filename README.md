@@ -7,7 +7,7 @@
 - 🔰  https://discord.gg/PZPcTVfP8e 🔰
 
 ```
-- 😄 Worked on: 
+- 📑 Worked on: 
 - HispanLifeRP - June 2019 - 2021
 - MisticRP - March 2021 - July 2021
 - EvolutionRP - January 2021
