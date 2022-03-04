@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on MyLifeRP
 - 💻 I’m currently learning Bash, JavaScript, .Lua
 ```
-- 📫 How to reach me: nixito337@gmail.com or Nix#7410
+- 📫 How to reach me: or Nix#7410
 - 🔰  https://discord.gg/PZPcTVfP8e 🔰
 
 ```
