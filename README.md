@@ -1,6 +1,6 @@
 ### Hi! I'm Nix 👋
 
-- 🔭 I’m currently working on MyLifeRP
+- 🔭 I’m currently working on @citizenfx (MyLifeRP)
 - 💻 I’m currently learning Bash, JavaScript, .Lua
 
 ## How to reach me
@@ -10,7 +10,7 @@
 <a href="https://twitch.tv/nixitoficial"><img height="48" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/twitch.svg"></a>&nbsp;&nbsp;
 </p>
 
-## Worked on:
+## @citizenfx Works:
 - HispanLifeRP - June 2019 - 2021
 - MisticRP - March 2021 - July 2021
 - EvolutionRP - January 2021
