@@ -6,7 +6,7 @@
 ## How to reach me
 <p align='center'>
 <a href="https://twitter.com/nixitoficial"><img height="48" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg"></a>&nbsp;&nbsp;   
-<a href="https://discord.gg/PZPcTVfP8e"><img height="48" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg"></a>&nbsp;&nbsp;
+<a href="https://twitch.tv/nixitoficial"><img height="48" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/twitch.svg"></a>&nbsp;&nbsp;
 </p>
 
 ## 📑 Worked on:
