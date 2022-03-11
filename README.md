@@ -1,6 +1,6 @@
 ### Hi! I'm Nix 👋
 
-- 🔭 I’m currently working on @citizenfx
+- 🔭 Working on @citizenfx
 - 💻 I’m currently learning Bash, JavaScript, .Lua
 
 ## How to reach me
