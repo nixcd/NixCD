@@ -10,11 +10,11 @@
 <a href="https://twitch.tv/nixitoficial"><img height="48" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/twitch.svg"></a>&nbsp;&nbsp;
 </p>
 
-## @citizenfx Worked:
-- HispanLifeRP - June 2019 - 2021
-- MisticRP - March 2021 - July 2021
-- EvolutionRP - January 2021
-- MyLifeRP -  27/01/2022 - ...
+## @citizenfx Worked (2019-Today):
+- HispanLifeRP
+- MisticRP
+- EvolutionRP 
+- MyLifeRP 
 
 ## Languages
 
@@ -23,6 +23,8 @@
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />
       <img src="https://github.com/NixCD/NixCD/blob/main/lua.svg" />
+      <img src="https://github.com/NixCD/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
+      <img src="https://github.com/NixCD/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" />
    </p>  
 
 
