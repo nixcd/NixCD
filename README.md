@@ -3,7 +3,7 @@
 - 🔭 Working on @citizenfx
 - 💻 I’m currently learning Bash, JavaScript, .Lua, C++.
 
-## How to reach me
+## Contact
 <p align='center'>
 <a href="mailto:nix.cont@outlook.es"><img height="48" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/nixitoficial"><img height="48" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg"></a>&nbsp;&nbsp;   
