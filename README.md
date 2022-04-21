@@ -1,7 +1,7 @@
 ### Hi! I'm Nix 👋
 
 - 🔭 Working on @citizenfx
-- 💻 I’m currently learning Bash, JavaScript, .Lua
+- 💻 I’m currently learning Bash, JavaScript, .Lua, C++.
 
 ## How to reach me
 <p align='center'>
