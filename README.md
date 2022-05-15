@@ -15,7 +15,9 @@
 - HispanLifeRP
 - MisticRP
 - EvolutionRP 
-- MyLifeRP 
+- MyLifeRP
+- SinnersRP
+- OutsidersRP
 
 ## Languages
 
