@@ -10,15 +10,6 @@
 <a href="https://twitch.tv/nixitoficial"><img height="48" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/twitch.svg"></a>&nbsp;&nbsp;
 </p>
 
-## @citizenfx Worked (2019-Today):
-- UnicosRP
-- HispanLifeRP
-- MisticRP
-- EvolutionRP 
-- MyLifeRP
-- SinnersRP
-- OutsidersRP
-
 ## Languages
 
    <p align="center">
