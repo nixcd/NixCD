@@ -1,7 +1,11 @@
-### Hi! I'm Nix 👋
+<h3 align = 'center'>Hi! I'm Nix 👋</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Welcome to my profile!" />
+</p>
 
 - 🔭 Working on @citizenfx
-- 💻 I’m currently learning Bash, JavaScript, .Lua, C++.
+- 💻 I’m currently learning JavaScript, .Lua, C++.
 - 🌎 I've been with the development world since 2018.
 
 ## Contact
