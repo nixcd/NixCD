@@ -10,7 +10,7 @@
     </text>
 
 </svg>
-  <a href="https://nixcd.github.io">Página Web: nixcd.github.io</a>
+  <a href="https://nixcd.github.io">nixcd.github.io</a>
 </p>
 
 <hr>
