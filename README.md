@@ -1,6 +1,6 @@
 <h3 align = 'center'>Hi! I'm Nix 👋</h3>
 
-<p text-align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!" />
 </p>
 
