@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!" />
-  <a href="https://nixcd.github.io" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&width=500&lines=P%C3%A1gina+Web+%F0%9F%8C%90"/></a>
+  <a style="font-family: monospace; font-size: 22px; color:#36BCF7FF;" href="https://nixcd.github.io" target="_blank">nixcd.github.io</a>
 </p>
 
 <hr>
