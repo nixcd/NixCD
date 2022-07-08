@@ -6,6 +6,10 @@
 
   ```diff
   Página Web: nixcd.github.io
+  
+ - 🔭 Working on @citizenfx
+- 💻 I’m currently learning JavaScript, .Lua, C++.
+- 🌎 I've been with the development world since 2018.
   ```
 
 <hr>
@@ -17,10 +21,6 @@
 ![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=NixCD&show_icons=true&theme=tokyonight&layout=compact)
     
 <hr>
-
-- 🔭 Working on @citizenfx
-- 💻 I’m currently learning JavaScript, .Lua, C++.
-- 🌎 I've been with the development world since 2018.
 
 ## Contact
 
