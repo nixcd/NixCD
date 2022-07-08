@@ -23,10 +23,17 @@
 - 🌎 I've been with the development world since 2018.
 
 ## Contact
+
+```diff
+Discord Profile
+```
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/777597856306823190)](https://discord.com/users/777597856306823190)
+
 <p align='center'>
 <a href="mailto:nix.cont@outlook.es"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/nixcdev"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg"></a>&nbsp;&nbsp;   
 </p>
+
 
 ## Languages
 
