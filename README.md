@@ -2,13 +2,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!" />
-  <a align="center" href="https://nixcd.github.io" target="_blank">Página Web: nixcd.github.io</a>
+  <a href="https://nixcd.github.io" target="_blank">Página Web: nixcd.github.io</a>
 </p>
-
-```js
-const Prueba="Bienvenido"
-alert(Prueba)
-```
 
 <hr>
 
