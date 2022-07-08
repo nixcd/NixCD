@@ -1,7 +1,7 @@
 <h3 align = 'center'>Hi! I'm Nix 👋</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Welcome to my profile!" />
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 </p>
 
 - 🔭 Working on @citizenfx
