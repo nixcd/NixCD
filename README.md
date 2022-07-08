@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!" />
-  <a href="https://nixcd.github.io" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&width=500&lines=Mi+p%C3%A1gina+Web"/></a>
+  <a href="https://nixcd.github.io" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&width=500&lines=P%C3%A1gina+Web+%F0%9F%8C%90"/></a>
 </p>
 
 <hr>
