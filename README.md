@@ -6,10 +6,11 @@
 
   ```diff
   Página Web: nixcd.github.io
-  
- - 🔭 Working on @citizenfx
-- 💻 I’m currently learning JavaScript, .Lua, C++.
-- 🌎 I've been with the development world since 2018.
+  ```
+  ```diff
+  🔭 Working on @citizenfx
+  💻 I’m currently learning JavaScript, .Lua, C++.
+  🌎 I've been with the development world since 2018.
   ```
 
 <hr>
