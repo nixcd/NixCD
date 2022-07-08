@@ -2,7 +2,20 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!" />
-  <a text-align="center" href="https://nixcd.github.io" target="_blank">Página Web: nixcd.github.io</a>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 50" style="background-color: #00000000;" width="500px" height="50px">
+
+    
+    <path id="path0">
+        <animate id="d0" attributeName="d" begin="0s;d0.end" dur="5000ms" values="m0,25 h0 ; m0,25 h500 ; m0,25 h0" keyTimes="0;0.8;1"/>
+    </path>
+    <text font-family="&quot;monospace&quot;, monospace" fill="#36BCF7" font-size="22" dominant-baseline="auto" x="50%" text-anchor="middle">
+        <textPath xlink:href="#path0">
+            Página Web 🌐
+        </textPath>
+    </text>
+
+</svg>
+  <a href="https://nixcd.github.io">Página Web: nixcd.github.io</a>
 </p>
 
 <hr>
