@@ -1,5 +1,8 @@
 <h3 align = 'center'>Hi! I'm Nix 👋</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Bienvenido" />
+</p>
 
 - 🔭 Working on @citizenfx
 - 💻 I’m currently learning JavaScript, .Lua, C++.
