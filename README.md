@@ -24,8 +24,8 @@
 
 ## Contact
 <p align='center'>
-<a href="mailto:nix.cont@outlook.es"><img height="48" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/nixcdev"><img height="48" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg"></a>&nbsp;&nbsp;   
+<a href="mailto:nix.cont@outlook.es"><img height="24" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/nixcdev"><img height="24" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg"></a>&nbsp;&nbsp;   
 </p>
 
 ## Languages
