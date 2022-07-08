@@ -2,16 +2,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!" />
-<svg>
-    <text font-family="&quot;monospace&quot;, monospace" fill="#36BCF7" font-size="22" dominant-baseline="auto" x="50%" text-anchor="middle">
-        <textPath>
-            Página Web 🌐
-        </textPath>
-    </text>
-
-</svg>
-  <a href="https://nixcd.github.io">nixcd.github.io</a>
 </p>
+
+  ```diff
+  Página Web: nixcd.github.io
+  ```
 
 <hr>
 
