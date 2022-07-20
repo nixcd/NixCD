@@ -5,7 +5,7 @@
 </p>
 
   ```diff
-  Página Web: nixcd.github.io
+  Web: nixcd.github.io
   ```
   ```diff
   🔭 Working on @citizenfx
