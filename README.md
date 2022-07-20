@@ -23,12 +23,6 @@
     
 <hr>
 
-```diff
-Discord Profile
-```
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/777597856306823190)](https://discord.com/users/777597856306823190)
-<hr>
-
 ## Contact
 <p align='center'>
 <a href="mailto:nix.cont@outlook.es"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg"></a>&nbsp;&nbsp;
